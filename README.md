@@ -1,7 +1,7 @@
 # API 활용 과제
 # 📌 할 일 관리(Todo)
 
-과제 링크'[완성 예시](https://todolistkse.netlify.app)'
+작업물 배포 링크 : '[오늘의 할 일](https://todolistkse.netlify.app)'
 
 ## 사용한 기술
 - <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
