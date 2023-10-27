@@ -1,4 +1,6 @@
-hi
-bye
-kse
-pull test
+API를 활용한 과제.
+
+1. todolist 사이트
+2. 영화 검색 사이트
+
+과제에 사용된 API 외부 노출 금지.
