@@ -3,7 +3,11 @@
 
 작업물 배포 링크 : '[오늘의 할 일](https://todolistkse.netlify.app)'
 
-## 사용한 기술
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/39ef2d6f-d1fe-458e-a431-ea1d24086b83)
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/d516ce9b-2f89-41e9-becb-6eb6bedcf789)
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/05d7a855-72d0-4c09-be3d-709aa53689f4)
+
+## 스택
 - <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
 - <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 - <img src="https://img.shields.io/badge/vite-646CFF?style=flat&logo=vite&logoColor=white"/>
@@ -34,11 +38,26 @@
 
 ----
 # 🎬 영화 검색
+작업물 배포 링크 :'[완성 사이트](https://omdbapikse.netlify.app)'
 
-'[완성 사이트](https://omdbapikse.netlify.app)'
 
-## 사용한 프로그램
 
+<영화 검색 메인 페이지>
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/5e52ca63-86a0-4b4e-9e51-555d553c30f4)
+
+<영화 검색 결과>
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/16804a90-6040-4721-8722-1ef035004112)
+
+![M2 영화검색 APImobile (1)](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/3d5c1b16-7a75-44d1-8887-bb9792c13e7a)
+
+<영화 상세 페이지>
+![mobile](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/ea855f64-bdba-49b0-904b-477b4ff80fdb)
+
+<페이지 구성>
+![M2 영화검색 APImobile (2)](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/28f7d069-09e1-4f0b-a999-4a29a6a4a15a)
+
+
+## 스택
 - 언어 : JS
 - 번들러 : Webpack
 - 스타일 : Scss
