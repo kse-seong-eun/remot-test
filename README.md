@@ -48,10 +48,10 @@
 <영화 검색 결과>
 ![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/16804a90-6040-4721-8722-1ef035004112)
 
-![M2 영화검색 APImobile (1)](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/3d5c1b16-7a75-44d1-8887-bb9792c13e7a)
-
 <영화 상세 페이지>
-![mobile](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/ea855f64-bdba-49b0-904b-477b4ff80fdb)
+![image](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/f3923ff6-222e-4e3d-92c7-279e007a9ddf)
+
+![M2 영화검색 APImobile (1)](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/3d5c1b16-7a75-44d1-8887-bb9792c13e7a)
 
 <페이지 구성>
 ![M2 영화검색 APImobile (2)](https://github.com/kse-seong-eun/-Git-practice/assets/66905959/28f7d069-09e1-4f0b-a999-4a29a6a4a15a)
